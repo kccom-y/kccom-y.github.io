@@ -15,7 +15,7 @@ profile:
     <a href="https://github.com/kccom-y" target="_blank">
       <i class="fab fa-github"></i>
     </a>
-  <a href="www.linkedin.com/in/chae-young-sim-262423284" target="_blank">
+  <a href="https://www.linkedin.com/in/chae-young-sim-262423284/" target="_blank">
     <i class="fab fa-linkedin"></i>
   </a>
 
