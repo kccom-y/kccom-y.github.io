@@ -166,6 +166,13 @@ body {
   font-style: italic;
 }
 
+.pub-note {
+  font-size: 0.72rem;
+  font-style: italic;
+  opacity: 0.85;
+  margin-top: 0.1rem;
+}
+
 .pub-links {
   margin-top: 0.35rem;
   display: flex;

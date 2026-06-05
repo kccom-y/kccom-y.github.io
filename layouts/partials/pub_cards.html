@@ -9,9 +9,15 @@
     <div class="pub-title">{{ .title }}</div>
     <div class="pub-meta">{{ .authors | safeHTML }}</div>
     <div class="pub-meta pub-venue">{{ .venue }}</div>
+    {{- with .note }}
+    <div class="pub-meta pub-note">{{ . | safeHTML }}</div>
+    {{- end }}
     <div class="pub-links">
       {{- with .award }}
       <span class="pub-badge award-badge">{{ . }}</span>
+      {{- end }}
+      {{- with .arxiv }}
+      <a href="{{ . }}" class="pub-badge">arXiv</a>
       {{- end }}
       {{- with .doi }}
       <a href="{{ . }}" class="pub-badge">DOI</a>
