@@ -31,6 +31,8 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/kccom-y
+    - name: linkedin
+      url: https://www.linkedin.com/in/chae-young-sim-262423284/
     - name: email
       url: mailto:simcy1024@korea.ac.kr
 
