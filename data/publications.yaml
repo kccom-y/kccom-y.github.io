@@ -11,6 +11,7 @@
   venue: "Korea Computer Congress (KCC), 2025"
   year: 2025
   note: "Domestic conference"
+  paper: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318609"
   selected: true
 
 - title: "Teaching an Elective Course about Quantum Computing"
