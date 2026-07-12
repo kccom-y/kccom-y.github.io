@@ -3,6 +3,7 @@
   venue: "IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2025"
   year: 2025
   note: "*Equal contribution"
+  paper: "https://ieeexplore.ieee.org/document/11261778"
   selected: true
 
 - title: "Performance Comparison of Heterogeneous Cores in Mobile APs under Thermal Constraints"

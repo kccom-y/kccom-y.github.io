@@ -16,6 +16,9 @@
       {{- with .award }}
       <span class="pub-badge award-badge">{{ . }}</span>
       {{- end }}
+      {{- with .paper }}
+      <a href="{{ . }}" class="pub-badge">Paper</a>
+      {{- end }}
       {{- with .arxiv }}
       <a href="{{ . }}" class="pub-badge">arXiv</a>
       {{- end }}
