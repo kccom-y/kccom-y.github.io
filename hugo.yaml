@@ -1,30 +1,26 @@
-baseURL: https://hskim1324.github.io/
+baseURL: https://kccom-y.github.io/
 languageCode: en-us
-title: Hoseok Kim
+title: Chae Young Sim
 theme: PaperMod
 
 paginate: 10
 
-services:
-  googleAnalytics:
-    id: G-SQVKVZBEEK
-
 params:
   env: production
-  description: "Hoseok Kim - Ph.D. Student at Purdue University"
-  author: Hoseok Kim
+  description: "Chae Young Sim - Ph.D. Student at Korea University"
+  author: Chae Young Sim
 
   # Profile mode for homepage
   profileMode:
     enabled: true
-    title: Hoseok Kim
+    title: Chae Young Sim
     subtitle: |
-      Ph.D. Student @ [Purdue University](https://www.purdue.edu)
+      Ph.D. Student @ [Korea University](https://www.korea.ac.kr)
 
     imageUrl: img/profile.jpg
     imageWidth: 150
     imageHeight: 150
-    imageTitle: Hoseok Kim
+    imageTitle: Chae Young Sim
     buttons:
       - name: Pub.
         url: /publications/
@@ -34,13 +30,9 @@ params:
   # Social icons on homepage
   socialIcons:
     - name: github
-      url: https://github.com/hskim1324
-    - name: linkedin
-      url: https://www.linkedin.com/in/hoseok-kim-03a6352b0
-    - name: googlescholar
-      url: https://scholar.google.com/citations?user=pMuWdL8AAAAJ&hl=en
+      url: https://github.com/kccom-y
     - name: email
-      url: mailto:kim5396@purdue.edu
+      url: mailto:simcy1024@korea.ac.kr
 
   # Dark mode
   defaultTheme: auto
